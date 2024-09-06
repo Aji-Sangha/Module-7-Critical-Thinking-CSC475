@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Unit Conversion</string>
+
+    <string-array name="all_units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+        <item>Meters</item>
+        <item>Feet</item>
+        <item>Kilometers</item>
+        <item>Miles</item>
+        <item>Centimeters</item>
+        <item>Inches</item>
+        <item>Kilograms</item>
+        <item>Pounds</item>
+        <item>Grams</item>
+        <item>Ounces</item>
+        <item>Tons</item>
+        <item>Liters</item>
+        <item>Gallons</item>
+        <item>Milliliters</item>
+        <item>Cups</item>
+        <item>Seconds</item>
+        <item>Minutes</item>
+        <item>Hours</item>
+        <item>Days</item>
+        <item>Meters per second</item>
+        <item>Kilometers per hour</item>
+        <item>Miles per hour</item>
+        <item>Square meters</item>
+        <item>Square feet</item>
+        <item>Acres</item>
+        <item>Pascals</item>
+        <item>Atmospheres</item>
+        <item>Bars</item>
+        <item>Joules</item>
+        <item>Calories</item>
+        <item>Watt-hours</item>
+        <item>Bytes</item>
+        <item>Kilobytes</item>
+        <item>Megabytes</item>
+        <item>Gigabytes</item>
+        <item>Terabytes</item>
+    </string-array>
+</resources>
